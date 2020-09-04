@@ -1,2 +1,0 @@
-# HOMEA
-device registry service
